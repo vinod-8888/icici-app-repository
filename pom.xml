@@ -40,7 +40,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
 
-      <version>3.8.4</version>
+      <version>3.8.0</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
